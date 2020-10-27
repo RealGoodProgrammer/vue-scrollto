@@ -1,7 +1,7 @@
 {
   "name": "vue-scrollto-next",
   "version": "0.0.0-development",
-  "description": "Adds a directive that listens for click events and scrolls to elements.",
+  "description": "The original repo is https://github.com/rigor789/vue-scrollto. Adds a directive that listens for click events and scrolls to elements.",
   "main": "vue-scrollto.js",
   "types": "vue-scrollto.d.ts",
   "keywords": [
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rigor789/vue-scrollto"
+    "url": "https://github.com/RealGoodProgrammer/vue-scrollto"
   },
   "dependencies": {
     "bezier-easing": "2.1.0"
