@@ -8,7 +8,7 @@ export default {
     input: './src/index.js',
     output: {
         file: 'vue-scrollto.js',
-        name: 'vue-scrollto',
+        name: 'vue-scrollto-next',
         format: 'umd',
         banner: `/*!
   * vue-scrollto v${version}
